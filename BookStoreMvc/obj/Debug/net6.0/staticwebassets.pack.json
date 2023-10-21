@@ -1,0 +1,201 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\Uploads\\01988f03-4a4c-49c3-a863-f8b7c34bb904.jfif",
+      "PackagePath": "staticwebassets\\Uploads\\01988f03-4a4c-49c3-a863-f8b7c34bb904.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\Uploads\\03142616-21a4-42d9-af49-0d72a6201a69.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\03142616-21a4-42d9-af49-0d72a6201a69.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\Uploads\\036afde8-77ea-4d99-8c2a-554b675f15a7.jfif",
+      "PackagePath": "staticwebassets\\Uploads\\036afde8-77ea-4d99-8c2a-554b675f15a7.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\Uploads\\0c9201d7-e4c9-4622-a953-d0d2e7346b8d.jfif",
+      "PackagePath": "staticwebassets\\Uploads\\0c9201d7-e4c9-4622-a953-d0d2e7346b8d.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\Uploads\\0fbb4fc9-fea5-49bb-ab61-ba74d5609c31.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0fbb4fc9-fea5-49bb-ab61-ba74d5609c31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\Uploads\\256b56bf-1a44-4608-89ea-3d7fdc63ab81.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\256b56bf-1a44-4608-89ea-3d7fdc63ab81.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\Uploads\\Book001.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Book001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\Uploads\\a34b8a2f-49f1-4629-b2f7-6ee1d4d55f2b.jfif",
+      "PackagePath": "staticwebassets\\Uploads\\a34b8a2f-49f1-4629-b2f7-6ee1d4d55f2b.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\Uploads\\bb062fac-c147-423c-b8bb-3a552bc434e6.png",
+      "PackagePath": "staticwebassets\\Uploads\\bb062fac-c147-423c-b8bb-3a552bc434e6.png"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\Uploads\\c1fca181-cff4-42d9-8017-19f06f0048a2.jfif",
+      "PackagePath": "staticwebassets\\Uploads\\c1fca181-cff4-42d9-8017-19f06f0048a2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\Uploads\\d2edd21d-4f76-4cd5-8d6f-d3a91d73bd52.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d2edd21d-4f76-4cd5-8d6f-d3a91d73bd52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\images\\The Secret of Nagas.jpg",
+      "PackagePath": "staticwebassets\\images\\The Secret of Nagas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\images\\alchemist.jpg",
+      "PackagePath": "staticwebassets\\images\\alchemist.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\images\\book1.jpg",
+      "PackagePath": "staticwebassets\\images\\book1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\images\\book2.jpg",
+      "PackagePath": "staticwebassets\\images\\book2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\images\\book3.jpg",
+      "PackagePath": "staticwebassets\\images\\book3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\images\\book4.jpg",
+      "PackagePath": "staticwebassets\\images\\book4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\images\\twistedLove.jpg",
+      "PackagePath": "staticwebassets\\images\\twistedLove.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Netra\\source\\repos\\BookStoreMvc\\BookStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BookStoreMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BookStoreMvc.props",
+      "PackagePath": "build\\BookStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStoreMvc.props",
+      "PackagePath": "buildMultiTargeting\\BookStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BookStoreMvc.props",
+      "PackagePath": "buildTransitive\\BookStoreMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
